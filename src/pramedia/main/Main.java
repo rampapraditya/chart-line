@@ -1,4 +1,4 @@
-package com.main;
+package pramedia.main;
 
 /**
  *
@@ -6,8 +6,8 @@ package com.main;
  */
 
 
-import com.chart.CurveLineChart;
-import com.chart.ModelChart;
+import pramedia.chart.CurveLineChart;
+import pramedia.chart.ModelChart;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.FlowLayout;

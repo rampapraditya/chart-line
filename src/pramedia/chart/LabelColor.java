@@ -1,4 +1,4 @@
-package com.chart;
+package pramedia.chart;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

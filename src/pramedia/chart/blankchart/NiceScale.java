@@ -1,4 +1,4 @@
-package com.chart.blankchart;
+package pramedia.chart.blankchart;
 
 public class NiceScale {
 

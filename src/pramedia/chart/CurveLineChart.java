@@ -1,12 +1,12 @@
-package com.chart;
+package pramedia.chart;
 
 /**
  *
  * @author rampa
  */
-import com.chart.blankchart.BlankPlotChart;
-import com.chart.blankchart.BlankPlotChatRender;
-import com.chart.blankchart.SeriesSize;
+import pramedia.chart.blankchart.BlankPlotChart;
+import pramedia.chart.blankchart.BlankPlotChatRender;
+import pramedia.chart.blankchart.SeriesSize;
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;

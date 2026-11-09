@@ -1,4 +1,4 @@
-package com.chart.blankchart;
+package pramedia.chart.blankchart;
 
 import java.awt.Graphics2D;
 

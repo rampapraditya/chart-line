@@ -1,4 +1,4 @@
-package com.chart;
+package pramedia.chart;
 
 public class LegendItem extends javax.swing.JPanel {
 
@@ -14,7 +14,7 @@ public class LegendItem extends javax.swing.JPanel {
     private void initComponents() {
 
         lbName = new javax.swing.JLabel();
-        lbColor = new com.chart.LabelColor();
+        lbColor = new pramedia.chart.LabelColor();
 
         lbName.setForeground(new java.awt.Color(100, 100, 100));
         lbName.setText("Name");
@@ -46,7 +46,7 @@ public class LegendItem extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private com.chart.LabelColor lbColor;
+    private pramedia.chart.LabelColor lbColor;
     private javax.swing.JLabel lbName;
     // End of variables declaration//GEN-END:variables
 }

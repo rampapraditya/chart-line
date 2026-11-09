@@ -1,4 +1,4 @@
-package com.chart;
+package pramedia.chart;
 
 /**
  *
